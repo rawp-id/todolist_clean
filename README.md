@@ -1,7 +1,6 @@
 # Todolist Clean Architecture
 
 ![Java](https://img.shields.io/badge/Java-20%2B-orange) 
-![IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 Ini adalah proyek Todolist dengan Clean Architecture yang ditulis dalam bahasa Java. Clean Architecture adalah pendekatan perancangan perangkat lunak yang memisahkan aplikasi ke dalam beberapa lapisan, yang memungkinkan fleksibilitas dan pengujian yang lebih baik.
 
